@@ -9,9 +9,7 @@ This is not your "jellybean" soldering station that you might find practically e
 
 While doing this we encountered a few problems. First of all any good quality soldering station weighs a lot because of the big power transformer inside it, which makes carrying it on a work bag quite a chore, also since they are mains-powered and usually single voltage you have to rely on having an adequate wall outlet near you, which is not usually the case and you might have to use a long extension cord or even a autotransformer if your jobsite doesn’t have the correct voltage available.
 
-<div style="text-align: center;">
 ![Main screen animation](http://innoveworkshop.com/images/products/portastation/mainscreen.gif)     ![Menu system animation](http://innoveworkshop.com/images/products/portastation/menu.gif)
-</div>
 
 Because of the constant struggle we had to deal with and the fact that the “solutions” to the problem were in fact just remedying the symptoms not the cause, we decided it was time to build an actual portable soldering station that could easily be carried anywhere, weighing very little, having a small footprint, and able to be powered from a battery or a universal supply. This is when the PortaStation was born! Ticking every objective to become the solution to this problem, and not just that, but also able to be used at the bench on the lab as your main, every day, soldering station while still being easy to pack up and taken to the field. Weighing just 340g, powered from a 24V, 4A capable, power source, compatible with any Hakko 907 style soldering irons and sporting a beautiful graphic LCD, it is just a pleasure to work with.
 
@@ -26,6 +24,8 @@ In summary the PortaStation is a very powerful soldering station built from the 
 
 ## Technical Details
 
+| Model | Rev A |
+| --- | --- |
 | Dimensions (WxHxD) | 104mm x 57mm x 144mm |
 | Weight | 340g |
 | Supply Voltage | 24V |
@@ -41,4 +41,4 @@ In summary the PortaStation is a very powerful soldering station built from the 
 
 ## License
 
-<div style="text-align: center;"><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</div>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
